@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/UnKownOwO"><img src="banner.png" alt="UnKownOwO Banner"></a>
+  <a href="https://github.com/UnKownOwO"><img src="banner.png" alt="UnKown Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/UnKownOwO">UnKownOwO</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/UnKownOwO">UnKown</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
