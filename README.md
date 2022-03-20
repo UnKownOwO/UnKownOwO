@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.png" alt="UnKownOwO Banner"/>
+  <a href="https://github.com/UnKownOwO"><img src="banner.png" alt="UnKownOwO Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/UnKownOwO">UnKownOwO</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
