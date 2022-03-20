@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/UnKownOwO"><img src="banner.png" alt="UnKown Banner"></a>
+  <a href="https://github.com/UnKownOwO"><img src="banner.jpeg" alt="UnKown Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/UnKownOwO">UnKown</a>!</h1>
